@@ -5,4 +5,6 @@
 (function() {
 	// do test
 	console.log("hello world: ", this === window);
+	
+	//TODO
 })();
