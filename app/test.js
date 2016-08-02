@@ -7,4 +7,8 @@
 	console.log("hello world: ", this === window);
 	
 	//TODO
+	
+	function doTest() {
+		console.log("good!");
+	}
 })();
